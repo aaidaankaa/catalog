@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/linearFragment_bn"
+        android:enabled="true"
+        android:icon="@drawable/ic_book_24"
+        android:title="LinearRecyclerView" />
+
+    <item
+        android:id="@+id/gridFragment_bn"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="GridRecyclerView" />
+
+</menu>
